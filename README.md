@@ -1,4 +1,4 @@
-# Student-Attendence-Management-System
+#Low Student-Attendence-Management-System
 
 Community Link:https://www.figma.com/community/file/1684971546672388241
 
